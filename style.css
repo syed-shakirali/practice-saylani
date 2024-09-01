@@ -1,0 +1,49 @@
+ul{
+    list-style: none;
+    margin: 1px;
+    padding: 0px;
+    width: 300px;
+    /* border: 2px solid red; */
+    /* border-radius: 10px; */
+    position: fixed;
+    height: 100%;
+    background-color: rgb(85, 240, 240);
+    
+}
+ul a{
+    text-decoration-line: none;
+    display: block;
+    padding: 8px 16px;
+    border-radius: 30px;
+}
+li a:hover{
+    background-color: blue;
+    color: white;
+}
+li{
+    /* text-align: center; */
+    /* border-bottom: 2px solid black; */
+    font-size: 20px;
+}
+#abcd{
+    margin-left: 25%;
+    height: 800px;
+    padding: 2px 5px;
+    /* overflow: auto; */
+}   
+.icon-large {
+    width: 100px; /* Desired width */
+    height: 100px; /* Desired height */
+    font-size: 200px; /* For font-based icons, adjust the font-size */
+}
+a input{
+     color: black;
+     background-color: rgb(9, 255, 0);
+    
+     border-radius: 5px;
+     font-size: 20px;
+}
+body{
+    background-color: rgb(212, 0, 255);
+    color: wheat;
+}
